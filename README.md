@@ -4,9 +4,10 @@
 
 ### Hi there, Perry here. 👋
 
-- 🔭 I’m currently working on **[Firebot](https://github.com/crowbartools/firebot)** and **[OverKill SMP](https://github.com/OverkillSMP)**
+- 🔭 I’m currently working on
+> **[Firebot](https://github.com/crowbartools/firebot)** and **[OverKill SMP](https://github.com/OverkillSMP)**
 - 💬 Ask me about **[Firebot](https://github.com/crowbartools/firebot)**.
-- 📫 How to reach me: **[Twitter](https://twitter.com/_theperry)**.
+- 📫 How to reach me: **[ThePerry @ Twitter](https://twitter.com/_theperry)**.
 
 <br>
 
