@@ -10,8 +10,6 @@
 - 📫 How to reach me: **[ThePerry @ Twitter](https://twitter.com/_theperry)**.
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brumoen&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
 <h2 align="left" id="perry-tech">Tech</h2>
 
@@ -71,7 +69,7 @@
 		</td>
 		<td align="center" width="96">
 			<a href="#perry-tech">
-				<img src="https://material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
+				<img src="https://v0.mui.com/images/material-ui-logo.svg" width="48" height="48" alt="Material UI" />
 			</a>
 			<br>Material ui
 		</td>
