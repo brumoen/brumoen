@@ -10,6 +10,8 @@
 - 📫 How to reach me: **[ThePerry @ Twitter](https://twitter.com/_theperry)**.
 
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brumoen&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <h2 align="left" id="perry-tech">Tech</h2>
 
